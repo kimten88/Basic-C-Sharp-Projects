@@ -18,15 +18,15 @@ namespace DailyReport
             Console.WriteLine("What course are you on?");
             string myCourse = Console.ReadLine();
             Console.WriteLine("What page number?");
-            string myPage = Console.ReadLine();
+            int myPage = int.Parse(Console.ReadLine());
             Console.WriteLine("Do you need help with anything? Please answer \"true\" or \"false\"");
-            string myHelp = Console.ReadLine();
+            bool myHelp = bool.Parse(Console.ReadLine());
             Console.WriteLine("Were there any positive experiences you'd like to share? Please give specifics.");
             string myExperience = Console.ReadLine();
             Console.WriteLine("Is there any other feedback you'd like to provide? Please be specific");
             string myFeedback = Console.ReadLine();
             Console.WriteLine("How many hours did you study today?");
-            string myHours = Console.ReadLine();
+            int myHours = int.Parse(Console.ReadLine());
             //final message displays 
             Console.WriteLine("Thank you for your answers. An Instructor will respond to this shortly. Have a great day!");
 
