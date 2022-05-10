@@ -1,0 +1,13 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\bin\Debug\netcoreapp3.1\mathAndComparison.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\bin\Debug\netcoreapp3.1\mathAndComparison.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\bin\Debug\netcoreapp3.1\mathAndComparison.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\bin\Debug\netcoreapp3.1\mathAndComparison.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\bin\Debug\netcoreapp3.1\mathAndComparison.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\bin\Debug\netcoreapp3.1\mathAndComparison.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\obj\Debug\netcoreapp3.1\mathAndComparison.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\obj\Debug\netcoreapp3.1\mathAndComparison.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\obj\Debug\netcoreapp3.1\mathAndComparison.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\obj\Debug\netcoreapp3.1\mathAndComparison.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\obj\Debug\netcoreapp3.1\mathAndComparison.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\obj\Debug\netcoreapp3.1\mathAndComparison.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\mathAndComparison\mathAndComparison\obj\Debug\netcoreapp3.1\mathAndComparison.genruntimeconfig.cache
