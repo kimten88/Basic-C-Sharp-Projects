@@ -1,0 +1,14 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\bin\Debug\netcoreapp3.1\LoopsVideo.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\bin\Debug\netcoreapp3.1\LoopsVideo.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\bin\Debug\netcoreapp3.1\LoopsVideo.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\bin\Debug\netcoreapp3.1\LoopsVideo.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\bin\Debug\netcoreapp3.1\LoopsVideo.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\bin\Debug\netcoreapp3.1\LoopsVideo.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\obj\Debug\netcoreapp3.1\LoopsVideo.csproj.AssemblyReference.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\obj\Debug\netcoreapp3.1\LoopsVideo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\obj\Debug\netcoreapp3.1\LoopsVideo.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\obj\Debug\netcoreapp3.1\LoopsVideo.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\obj\Debug\netcoreapp3.1\LoopsVideo.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\obj\Debug\netcoreapp3.1\LoopsVideo.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\obj\Debug\netcoreapp3.1\LoopsVideo.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\LoopsVideo\LoopsVideo\obj\Debug\netcoreapp3.1\LoopsVideo.genruntimeconfig.cache

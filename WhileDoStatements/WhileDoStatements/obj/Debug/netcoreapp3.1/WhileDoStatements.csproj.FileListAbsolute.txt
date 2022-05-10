@@ -1,0 +1,17 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.csproj.AssemblyReference.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\bin\Debug\netcoreapp3.1\WhileDoStatements.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\bin\Debug\netcoreapp3.1\WhileDoStatements.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\bin\Debug\netcoreapp3.1\WhileDoStatements.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\bin\Debug\netcoreapp3.1\WhileDoStatements.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\bin\Debug\netcoreapp3.1\WhileDoStatements.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\bin\Debug\netcoreapp3.1\WhileDoStatements.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.csproj.CopyComplete
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\WhileDoStatements\WhileDoStatements\obj\Debug\netcoreapp3.1\WhileDoStatements.genruntimeconfig.cache
