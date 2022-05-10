@@ -50,6 +50,14 @@ namespace WhileDoStatements
             {
             }
             Console.Read();
+
+            int num = 0;
+            while (num < 10)
+            {
+                Console.WriteLine(num);
+                num++;
+                Console.ReadLine();
+            }
         }
     }
 }
