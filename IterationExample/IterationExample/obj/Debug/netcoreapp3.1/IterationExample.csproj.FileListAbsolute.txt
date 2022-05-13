@@ -1,0 +1,14 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\bin\Debug\netcoreapp3.1\IterationExample.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.csproj.AssemblyReference.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\IterationExample\IterationExample\obj\Debug\netcoreapp3.1\IterationExample.genruntimeconfig.cache
