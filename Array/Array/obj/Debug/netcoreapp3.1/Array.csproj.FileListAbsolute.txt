@@ -1,0 +1,14 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\bin\Debug\netcoreapp3.1\Array.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\bin\Debug\netcoreapp3.1\Array.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\bin\Debug\netcoreapp3.1\Array.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\bin\Debug\netcoreapp3.1\Array.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\bin\Debug\netcoreapp3.1\Array.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.AssemblyReference.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\obj\Debug\netcoreapp3.1\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\obj\Debug\netcoreapp3.1\Array.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\obj\Debug\netcoreapp3.1\Array.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\obj\Debug\netcoreapp3.1\Array.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\obj\Debug\netcoreapp3.1\Array.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Array\Array\obj\Debug\netcoreapp3.1\Array.genruntimeconfig.cache

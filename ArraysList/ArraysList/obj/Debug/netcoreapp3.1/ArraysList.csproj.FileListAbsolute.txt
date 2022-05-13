@@ -1,0 +1,14 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\bin\Debug\netcoreapp3.1\ArraysList.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.csproj.AssemblyReference.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\ArraysList\ArraysList\obj\Debug\netcoreapp3.1\ArraysList.genruntimeconfig.cache
