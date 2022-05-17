@@ -8,103 +8,120 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            ////creating a string array
-            //string[] stringArray = { "Dog", "Fish", "Cat", "Bird", "Turtle" };
-            ////informing the user to enter the index number for the list
-            //Console.WriteLine("Please give a last name for the animals: ");
-            //string userInput = Console.ReadLine();
+            //creating a string array
+            string[] stringArray = { "Dog", "Fish", "Cat", "Bird", "Turtle" };
+            //asking for user input
+            Console.WriteLine("Please give a last name for the animals: ");
+            string userInput = Console.ReadLine();
 
-            ////iteration instructions, was changed to i-- for in infinite loop and corrected to i++
-            //for (int i = 0; i < stringArray.Length; i++)
-            //{
-            //    //displays the value of the index in the array
-            //    Console.WriteLine(stringArray[i] + " " + userInput);
+            //iteration instructions
+            for (int i = 0; i < stringArray.Length; i++)
+            {
+                //concatenated the array with the user input 
+                stringArray[i] = stringArray[i] + " " + userInput;
 
-            //}
-            //Console.ReadLine();
+            }
+            //interating to display modified array
+            for (int i = 0; i < stringArray.Length; i++)
+            {
+                Console.WriteLine(stringArray[i]);
+            }
+            Console.ReadLine();
 
-            //List<int> testScores = new List<int>() { 98, 99, 12, 74, 23, 99 };
-            //List<int> passingScores = new List<int>();
+            //creating a string array for Part 2
+            string[] Part2 = { "Cup", "Glass", "Mug" };
 
-            //foreach (int score in testScores)
-            //{
-            //    if (score > 85)
-            //    {
-            //        passingScores.Add(score);
-            //    }
-            //}
-            //Console.WriteLine(passingScores.Count);
-            //Console.ReadLine();
+            //iteration instructions, was changed to p-- for in infinite loop and corrected to p++
+            for (int i = 0; i < Part2.Length; i++)
+            {
+                //displays the value of the index in the array
+                Console.WriteLine(Part2[i]);
+            }
+            Console.ReadLine();
 
-            //int[] numArray = { 7, 19, 80, 197, 68, 55 };
-
-
-            //foreach (int number in numArray)
-            //{
-            //    if (number <= 50)
-            //        //displays index value
-            //        Console.WriteLine(number);
-
-            //}
-            //Console.ReadLine();
-
-
-            //int[] numArray2 = { 28, 35, 110, 67, 7, 150 };
+            //integer list
+            List<int> testScores = new List<int> { 98, 99, 12, 74, 23, 99 };
+            //comparison use to determine whether to continue iterating '<' operator
+            for (int i = 0; i < testScores.Count; i++)
+            {
+                Console.WriteLine(i);
+            }
+            Console.ReadLine();
 
 
-            //foreach (int number2 in numArray2)
-            //{
-            //    if (number2 < 100)
-            //        //displays index value
-            //        Console.WriteLine(number2);
-            //}
-            //Console.ReadLine();
+            int[] numArray = { 7, 19, 80, 197, 68, 55 };
+            //comparison use to determine whether to continue iterating '<=' operator
+            for (int i = 0; i <= 4; i++)
+            {
+                Console.WriteLine(numArray[i]);
+            }
+            Console.ReadLine();
 
 
-            //List<string> carTypes = new List<string>() { "sedan", "coupe", "truck", "SUV", "van" };
-            //Console.WriteLine("Please select a type of vehicle: ");
-            //string userType = Console.ReadLine();
+            //new integer array
+            int[] numArray2 = { 28, 35, 110, 67, 7, 150 };
 
-            //foreach (string car in carTypes)
-            //{
-            //    if (car == userType)
-            //    {
-            //        Console.WriteLine("This type is in the list " + userType);
-            //        break;
-            //    }
+            foreach (int number2 in numArray2)
+            {
+                if (number2 < 100)
+                    //displays index value
+                    Console.WriteLine(number2);
+            }
+            Console.ReadLine();
 
-            //    else
-            //    {
-            //        Console.WriteLine("This type is not in the list");
-            //    }
-            //}
 
-            //List<string> weekDays = new List<string>() { "Friday", "Tuesday", "Friday", "Thursday", "Wednesday" };
-            //Console.WriteLine("Please enter which day of the week you would like an appointment : ");
-            //string userSearch = Console.ReadLine();
+            //string list with user input
+            List<string> carTypes = new List<string>() { "sedan", "coupe", "truck", "SUV", "van" };
+            Console.WriteLine("Please select a type of vehicle: ");
+            string userType = Console.ReadLine();
+            bool found = false;
 
-            //for (int w = 0; w < weekDays.Count; w++)
-            //{
-            //    if (weekDays[w] == userSearch)
-            //    {
-            //        Console.WriteLine("Your appointment is confirmed for " + userSearch);
-            //        break;
-            //    }
+            for (int i = 0; i < carTypes.Count; i++)
+            {
+                if (carTypes[i] == userType)
+                {
+                    Console.WriteLine("This type is located at index: " + i);
+                    found = true;
+                    break;
+                }
+                //message displayed if user input is not in list
 
-            //    else
-            //    {
-            //        Console.WriteLine("This day is not available");
+            }
+            if (!found)
+            {
+                Console.WriteLine("This type is not in the list");
+            }
 
-            //    }
 
-            //}
+            //user searched with duplicate strings
+            List<string> weekDays = new List<string>() { "Friday", "Tuesday", "Friday", "Thursday", "Wednesday" };
+            Console.WriteLine("Please enter which day of the week you would like an appointment : ");
+            string userSearch = Console.ReadLine();
+            //iterate through list
+            for (int i = 0; i < weekDays.Count; i++)
+            {
+                //if the user search matches anything in the string
+                if (weekDays[i] == userSearch)
+                {
+                    Console.WriteLine("This day exisits in index: " + i);
+                }
+                //if user search does not match list
+                else
+                {
+                    Console.WriteLine("This day is not available");
 
+                }
+
+            }
+            Console.ReadLine();
+
+
+            //list with duplicate string
             List<string> fruits = new List<string>() { "Apple", "Pear", "Orange", "Apple", "Orange", "Peach" };
-
 
             var myList = new List<string>();
             var duplicates = new List<string>();
-
+            //creating new lists which will only allow one value
             foreach (var f in fruits)
             {
                 if (!myList.Contains(f))
@@ -112,8 +129,6 @@ namespace ConsoleApp1
                 else
                     duplicates.Add(f);
             }
-
-
             // show duplicates list
             foreach (var f in duplicates)
                 Console.WriteLine(f + " has already appeared in this string");
