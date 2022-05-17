@@ -1,0 +1,13 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\netcoreapp3.1\StringsIntegers.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\netcoreapp3.1\StringsIntegers.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\netcoreapp3.1\StringsIntegers.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\netcoreapp3.1\StringsIntegers.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\netcoreapp3.1\StringsIntegers.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\bin\Debug\netcoreapp3.1\StringsIntegers.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\netcoreapp3.1\StringsIntegers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\netcoreapp3.1\StringsIntegers.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\netcoreapp3.1\StringsIntegers.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\netcoreapp3.1\StringsIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\netcoreapp3.1\StringsIntegers.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\netcoreapp3.1\StringsIntegers.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\StringsIntegers\StringsIntegers\obj\Debug\netcoreapp3.1\StringsIntegers.genruntimeconfig.cache
