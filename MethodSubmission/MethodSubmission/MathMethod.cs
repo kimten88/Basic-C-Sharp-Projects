@@ -6,7 +6,7 @@ namespace MethodSubmission
 {
     public static class MathMethod
     {
-        //first method for user's number with chosenNum parameter 
+        //first method for user's numbers with 2 parameters 
         public static int Multiply(int userValue, int userValue2)
         {
             //establish total as int value type, users number, and math operator
@@ -15,6 +15,7 @@ namespace MethodSubmission
 
         }
 
+        //third method for user's number with 1 parameter 
         public static int Multiply(int userValue)
         {
             //establish total as int value type, users number, and math operator
@@ -23,7 +24,7 @@ namespace MethodSubmission
 
         }
 
-        //second method for user's number with chosenNum parameter 
+        //second method for user's numbers with 2 parameters 
         public static int Add(int userValue, int userValue2)
         {
             //establish total as int value type, users number, and math operator
@@ -32,6 +33,7 @@ namespace MethodSubmission
 
         }
 
+        //third method for user's number with 1 parameter 
         public static int Add(int userValue)
         {
             //establish total as int value type, users number, and math operator
@@ -40,7 +42,7 @@ namespace MethodSubmission
 
         }
 
-        //third method for user's number with chosenNum parameter 
+        //third method for user's numbers with 2 parameters 
         public static int Subtract(int userValue, int userValue2)
         {
             //establish total as int value type, users number, and math operator
@@ -49,6 +51,7 @@ namespace MethodSubmission
 
         }
 
+        //third method for user's number with 1 parameter 
         public static int Subtract(int userValue)
         {
             //establish total as int value type, users number, and math operator
