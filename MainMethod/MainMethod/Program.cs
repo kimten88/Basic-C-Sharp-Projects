@@ -14,18 +14,25 @@ namespace MainMethod
             int number = 5;
             decimal decnum = 5.0m;
             string strNum = "5";
-            //calling Addition method from Math.cs
-            int AddTotal = Math.Add(number);
+            //creating an object named m of class Math
+            Math m = new Math();
+            
+            //calling method
+            int total = m.Operations(number);
             //displays results to the user
-            Console.WriteLine(number + " plus 15 = " + AddTotal);
-            //calling Subtraction method from Math.cs
-            int SubtractTotal = Math.Subtract(decnum);
+            Console.WriteLine(number + " plus 15 = " + total);
+            
+            //calling method from Math.cs
+            total = m.Operations(decnum);
             //displays results to the user
-            Console.WriteLine(decnum + " minus 2 = " + SubtractTotal);
-            //calling Multiplication method from Math.cs
-            int MultiplyTotal = Math.Multiply(strNum);
+            Console.WriteLine(decnum + " minus 2 = " + total);
+           
+
+            //calling method from Math.cs
+            total = m.Operations(strNum);
             //displays results to the user
-            Console.WriteLine(strNum + " times 10 = " + MultiplyTotal);
+            Console.WriteLine(strNum + " times 10 = " + total);
+            
         }
     }
 }
