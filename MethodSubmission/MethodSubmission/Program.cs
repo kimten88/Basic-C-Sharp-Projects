@@ -27,7 +27,7 @@ namespace MethodSubmission
                 int AddTotal = MathMethod.Add(userValue, userValue2);
                 //displays results to the user
                 Console.WriteLine(userValue + " + " + userValue2 + " + 10 = " + AddTotal);
-                //calling Divide method from Math.cs
+                //calling Subtract method from Math.cs
                 int SubtrTotal = MathMethod.Subtract(userValue, userValue2);
                 //displays results to the user
                 Console.WriteLine(userValue + " - " + userValue2 + " - 2 = " + SubtrTotal);
@@ -42,18 +42,11 @@ namespace MethodSubmission
                 int AddTotal = MathMethod.Add(userValue);
                 //displays results to the user
                 Console.WriteLine(userValue + " + 10 = " + AddTotal);
-                //calling Divide method from Math.cs
+                //calling Subtact method from Math.cs
                 int SubtrTotal = MathMethod.Subtract(userValue);
                 //displays results to the user
                 Console.WriteLine(userValue + " - 2 = " + SubtrTotal);
             }
-
-
-
-
-
-
-            
             
         }
 
