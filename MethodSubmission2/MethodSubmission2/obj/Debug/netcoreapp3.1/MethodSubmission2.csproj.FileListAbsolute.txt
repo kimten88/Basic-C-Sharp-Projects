@@ -1,0 +1,14 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\bin\Debug\netcoreapp3.1\MethodSubmission2.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\bin\Debug\netcoreapp3.1\MethodSubmission2.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\bin\Debug\netcoreapp3.1\MethodSubmission2.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\bin\Debug\netcoreapp3.1\MethodSubmission2.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\bin\Debug\netcoreapp3.1\MethodSubmission2.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\bin\Debug\netcoreapp3.1\MethodSubmission2.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\obj\Debug\netcoreapp3.1\MethodSubmission2.csproj.AssemblyReference.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\obj\Debug\netcoreapp3.1\MethodSubmission2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\obj\Debug\netcoreapp3.1\MethodSubmission2.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\obj\Debug\netcoreapp3.1\MethodSubmission2.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\obj\Debug\netcoreapp3.1\MethodSubmission2.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\obj\Debug\netcoreapp3.1\MethodSubmission2.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\obj\Debug\netcoreapp3.1\MethodSubmission2.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\MethodSubmission2\MethodSubmission2\obj\Debug\netcoreapp3.1\MethodSubmission2.genruntimeconfig.cache
