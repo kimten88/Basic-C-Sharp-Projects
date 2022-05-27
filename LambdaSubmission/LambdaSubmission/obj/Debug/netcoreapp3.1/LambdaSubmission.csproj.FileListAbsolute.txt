@@ -1,0 +1,14 @@
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.exe
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.deps.json
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.runtimeconfig.json
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.runtimeconfig.dev.json
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.dll
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\bin\Debug\netcoreapp3.1\LambdaSubmission.pdb
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.csproj.AssemblyReference.cache
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.AssemblyInfoInputs.cache
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.AssemblyInfo.cs
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.dll
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.pdb
+C:\Users\Kimte\source\repos\LambdaSubmission\LambdaSubmission\obj\Debug\netcoreapp3.1\LambdaSubmission.genruntimeconfig.cache
