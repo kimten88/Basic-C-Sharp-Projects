@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kimte\\source\\repos\\LambdaSubmission\\LambdaSubmission\\LambdaSubmission.csproj",
+      "projectUniqueName": "C:\\Users\\Kimte\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\LambdaSubmission\\LambdaSubmission\\LambdaSubmission.csproj",
       "projectName": "LambdaSubmission",
-      "projectPath": "C:\\Users\\Kimte\\source\\repos\\LambdaSubmission\\LambdaSubmission\\LambdaSubmission.csproj",
+      "projectPath": "C:\\Users\\Kimte\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\LambdaSubmission\\LambdaSubmission\\LambdaSubmission.csproj",
       "packagesPath": "C:\\Users\\Kimte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kimte\\source\\repos\\LambdaSubmission\\LambdaSubmission\\obj\\",
+      "outputPath": "C:\\Users\\Kimte\\OneDrive\\Documents\\GitHub\\Basic-C-Sharp-Projects\\LambdaSubmission\\LambdaSubmission\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

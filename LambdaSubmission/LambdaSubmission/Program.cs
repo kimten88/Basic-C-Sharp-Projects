@@ -91,6 +91,14 @@ namespace LambdaSubmission
                     Console.WriteLine("Employees with first name Joe = " + emp.FirstName + " " + emp.LastName);
                 }
             }
+            //lambda expression for Joes in the list
+            List<employee> list3 = list.Where(x => x.FirstName == "Joe").ToList();
+            foreach (employee j in list3)
+            {
+                Console.WriteLine(j.FirstName + " " + j.LastName);
+            }
+
+
             //creating list with IDs greater than 5
             List<employee> eeList = list.Where(x => x.ID > 5).ToList();
             //loop to display which employees have an ID greater than 5
