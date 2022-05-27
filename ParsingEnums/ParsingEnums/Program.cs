@@ -22,10 +22,8 @@ namespace ParsingEnums
             {
                 Console.WriteLine("What day is it?");
                 string userAnswer = Console.ReadLine();
-
-                //PetType pet = (PetType)Enum.Parse(typeof(PetType), value);
                 DaysOfTheWeek day = (DaysOfTheWeek)Enum.Parse(typeof(DaysOfTheWeek), userAnswer);
-                Console.WriteLine(userAnswer + " is today!");
+                Console.WriteLine(day + " is today!");
 
             }
             catch (Exception)
