@@ -1,0 +1,14 @@
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.exe
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.deps.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.runtimeconfig.dev.json
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\bin\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.AssemblyReference.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfoInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.AssemblyInfo.cs
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\DateTime\DateTime\obj\Debug\netcoreapp3.1\DateTime.genruntimeconfig.cache
