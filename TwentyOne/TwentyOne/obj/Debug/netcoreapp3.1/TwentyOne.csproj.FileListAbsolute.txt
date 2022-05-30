@@ -4,11 +4,14 @@ C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\Twenty
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.runtimeconfig.dev.json
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.dll
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\TwentyOne.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.dll
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\bin\Debug\netcoreapp3.1\Casino.pdb
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfoInputs.cache
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.AssemblyInfo.cs
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CoreCompileInputs.cache
+C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.CopyComplete
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.dll
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.pdb
 C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.genruntimeconfig.cache
-C:\Users\Kimte\OneDrive\Documents\GitHub\Basic-C-Sharp-Projects\TwentyOne\TwentyOne\obj\Debug\netcoreapp3.1\TwentyOne.csproj.AssemblyReference.cache
