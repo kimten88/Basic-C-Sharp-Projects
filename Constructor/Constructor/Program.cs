@@ -6,18 +6,21 @@ namespace Constructor
     {
         static void Main(string[] args)
         {
+
+            Colors color = new Colors("Red", "Yellow", "Orange");
+
             //created a const variable
-            const string colorName = "Deep Forest Green";
+            const string color1 = "Deep Forest Green";
             //asks users for a color
             Console.WriteLine("Please enter your favorite color:");
             //using the var method
-            var userAnswer = Console.ReadLine();
-            //chaining 
-            string newColor = colorName + userAnswer;
+            var color2 = Console.ReadLine();
 
-            //displaying the information to the user
-            Console.WriteLine("While your favorite color is: " + userAnswer + "\nMy Favorite color is {0}! ", colorName + "\nI would like to see a new color called " + newColor);
-            Console.ReadLine();
+
         }
+
+
     }
+
+    
 }

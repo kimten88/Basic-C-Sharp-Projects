@@ -6,6 +6,8 @@ using System.Threading.Tasks;
 using System.IO;
 using Casino;
 using Casino.TwentyOne;
+using System.Data.SqlClient;
+using System.Data;
 
 namespace TwentyOne
 {
@@ -19,8 +21,31 @@ namespace TwentyOne
 
             Console.WriteLine("Welcome to the {0}. Let's start by telling me your name.", casinoName);
             string playerName = Console.ReadLine();
-            Console.WriteLine("And how much moeny did you bring to today?");
-            int bank = Convert.ToInt32(Console.ReadLine());
+            if (playerName.ToLower() == "admin")
+            {
+                List<ExceptionEntity> Exceptions = ReadExceptions();
+                foreach (var exception in Exceptions)
+                {
+                    Console.Write(exception.Id + " | ");
+                    Console.Write(exception.ExceptionType + " | ");
+                    Console.Write(exception.ExceptionMessage + " | ");
+                    Console.Write(exception.TimeStamp + " | ");
+                    Console.WriteLine();
+                }
+                Console.Read();
+                return;
+            } 
+            bool validAnswer = false;
+            int bank = 0;
+            while (!validAnswer)
+            {
+                Console.WriteLine("And how much money did you bring today?");
+                validAnswer = int.TryParse(Console.ReadLine(), out bank);
+                if (!validAnswer) Console.WriteLine("Please enter digits only, no decimals.");
+            }
+
+
+
             Console.WriteLine("Hello, {0} Would you like to join a game of 21 right now?", playerName);
             string answer = Console.ReadLine().ToLower();
             if (answer == "yes" || answer == "yeah" || answer == "y" || answer == "ya")
@@ -36,64 +61,69 @@ namespace TwentyOne
                 game += player;
                 player.isActivelyPlaying = true;
                 while (player.isActivelyPlaying && player.Balance > 0)
+                {
+                    try
                     {
-                    game.Play();
+                        game.Play();
+                    }
+                    catch (FraudException ex)
+                    {
+                        Console.WriteLine(ex.Message);
+                        UpdateDbWithException(ex);
+                        Console.ReadLine();
+                        return;
+                    }
+                    catch (Exception ex)
+                    {
+                        Console.WriteLine("An error occurred. Please contact your System Administrator.");
+                        UpdateDbWithException(ex);
+                        Console.ReadLine();
+                        return;
+                    }
                 }
                 game -= player;
                 Console.WriteLine("Thank you for playing!");
             }
             Console.WriteLine("Feel free to look around the casino. Bye for now.");
             Console.ReadLine();
-
-
-            //previous video content
-
-            //Game game = new TwentyOneGame();
-            //game.Players = new List<Player>();
-            //Player player = new Player();
-            //player.Name = "Kim";
-            //game += player;
-            //game -= player;
-
-            //Card card = new Card();
-            //card.Suit = Suit.Clubs;
-            //int underlyingValue = Convert.ToInt32(Suit.Diamonds);
-            //Console.WriteLine(underlyingValue);
-
-            //Card card1 = new Card();
-            //Card card2 = card1;
-            //card1.Face = Face.Eight;
-            //card2.Face = Face.King;
-
-            //Console.WriteLine(card1.Face);
-
-            //Deck deck = new Deck();
-
-            //int counter = deck.Cards.Count(x => x.Face == Face.Ace);
-
-            //List<Card> newList = deck.Cards.Where(x => x.Face == Face.King).ToList();
-            //foreach (Card card in newList)
-            //{
-            //    Console.WriteLine(card.Face);
-            //}
-
-            //List<int> numberList = new List<int>() { 1, 2, 3, 535, 342, 23 };
-
-            //int sum = numberList.Sum(x => x + 5);
-            //Console.WriteLine(sum);
-            
-           
-
-            //deck.Shuffle(3);
-
-            //foreach (Card card in deck.Cards)
-            //{
-            //    Console.WriteLine(card.Face + " of " + card.Suit);
-            //}
-            //Console.WriteLine(deck.Cards.Count);
-            //Console.ReadLine();
+     
         }
 
+        private static void UpdateDbWithException (Exception ex)
+        {
+            string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TwentyOneGame;
+                                        Integrated Security=True;Connect Timeout=30;Encrypt=False;
+                                        TrustServerCertificate=False;ApplicationIntent=ReadWrite;
+                                        MultiSubnetFailover=False";
+
+            string queryString = @"INSERT INTO Table (ExceptionType, ExceptionMessage, TimeStamp) VALUES 
+                                    (@ExceptionType, @ExceptionMessage, @TimeStamp)";
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+                command.Parameters.Add("@ExceptionType", SqlDbType.VarChar);
+                command.Parameters.Add("@ExceptionMessage", SqlDbType.VarChar);
+                command.Parameters.Add("@TimeStamp", SqlDbType.DateTime);
+
+                command.Parameters["@ExceptionType"].Value = ex.GetType().ToString();
+                command.Parameters["@ExceptionMessage"].Value = ex.Message;
+                command.Parameters["@TimeStamp"].Value = DateTime.Now;
+
+                connection.Open();
+                command.ExecuteNonQuery();
+                connection.Close();
+            }
+        }
+        private static List<ExceptionEntity> exceptionEntities()
+        {
+            string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TwentyOneGame;
+                                        Integrated Security=True;Connect Timeout=30;Encrypt=False;
+                                        TrustServerCertificate=False;ApplicationIntent=ReadWrite;
+                                        MultiSubnetFailover=False";
+
+
+        }
     }
 }
 
