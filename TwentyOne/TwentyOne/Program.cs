@@ -96,7 +96,7 @@ namespace TwentyOne
                                         TrustServerCertificate=False;ApplicationIntent=ReadWrite;
                                         MultiSubnetFailover=False";
 
-            string queryString = @"INSERT INTO Table (ExceptionType, ExceptionMessage, TimeStamp) VALUES 
+            string queryString = @"INSERT INTO Exception (ExceptionType, ExceptionMessage, TimeStamp) VALUES 
                                     (@ExceptionType, @ExceptionMessage, @TimeStamp)";
 
             using (SqlConnection connection = new SqlConnection(connectionString))
@@ -115,14 +115,38 @@ namespace TwentyOne
                 connection.Close();
             }
         }
-        private static List<ExceptionEntity> exceptionEntities()
+        private static List<ExceptionEntity> ReadExceptions()
         {
             string connectionString = @"Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=TwentyOneGame;
                                         Integrated Security=True;Connect Timeout=30;Encrypt=False;
                                         TrustServerCertificate=False;ApplicationIntent=ReadWrite;
                                         MultiSubnetFailover=False";
 
+            string queryString = @"Select Id, ExceptionType, ExceptionMessage, TimeStamp from Exceptions";
 
+            List<ExceptionEntity> Exceptions = new List<ExceptionEntity>();
+
+            using (SqlConnection connection = new SqlConnection(connectionString))
+            {
+                SqlCommand command = new SqlCommand(queryString, connection);
+
+                connection.Open();
+
+                SqlDataReader reader = command.ExecuteReader();
+
+                while (reader.Read())
+                {
+                    ExceptionEntity execption = new ExceptionEntity();
+                    execption.Id = Convert.ToInt32(reader["Id"]);
+                    execption.ExceptionType = reader["ExceptionType"].ToString();
+                    execption.ExceptionMessage = reader["ExecptionMessage"].ToString();
+                    execption.TimeStamp = Convert.ToDateTime(reader["TimeStamp"]);
+                    Exceptions.Add(execption);
+                }
+                connection.Close();
+            }
+
+            return Exceptions;
         }
     }
 }
