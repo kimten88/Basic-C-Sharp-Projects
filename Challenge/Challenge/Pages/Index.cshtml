@@ -1,0 +1,15 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+
+    <p>The time on the server is @ViewData["TimeStamp"].</p>
+
+    @{ var myMessage = "Razor Text"; }
+    <h2>@myMessage</h2>
+
+</div>
